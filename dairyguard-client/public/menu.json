@@ -1,0 +1,195 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Ice-cream",
+        "recipe": "Delecious mixed flavour Desert",
+        "image": "/images/items/img1.jpg",
+        "category": "ice-cream",
+        "price": 147
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Bread",
+        "recipe": "Freshly baked bread, perfect companion for our dairy products",
+        "image": "/images/items/img2.webp",
+        "category": "bread",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Honey",
+        "recipe": "Sweet, natural, flavor-enhancing, nutritious, sticky, soothing, wholesome honey.",
+        "image": "/images/items/img3.webp",
+        "category": "honey",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Escalope de Veau",
+        "recipe": "Fresh, organic paneer delivered from farm to your doorstep, daily",
+        "image": "/images/items/img5.png",
+        "category": "paneer",
+        "price": 125
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Roast Duck Breast",
+        "recipe": "Fresh milk delivered daily, ensuring quality, purity, and convenience.",
+        "image": "/images/items/img7.jpeg",
+        "category": "milk",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Roast Duck Breast",
+        "recipe": "Premium butter: rich, creamy, farm-fresh for exceptional taste and quality.",
+        "image": "/images/items/img4.png",
+        "category": "butter",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Roast Duck Breast",
+        "recipe": "Explore premium yogurt: fresh, delicious, and crafted with care.",
+        "image": "/images/items/img8.jpeg",
+        "category": "yogurt",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Roast Duck Breast",
+        "recipe": "Discover premium cheeses with our curated selection and expert recommendations",
+        "image": "/images/items/img4.png",
+        "category": "cheese",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Ice-cream",
+        "recipe": "Delecious mixed flavour Desert",
+        "image": "/images/items/img1.jpg",
+        "category": "ice-cream",
+        "price": 147
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Bread",
+        "recipe": "Freshly baked bread, perfect companion for our dairy products",
+        "image": "/images/items/img2.webp",
+        "category": "bread",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Honey",
+        "recipe": "Sweet, natural, flavor-enhancing, nutritious, sticky, soothing, wholesome honey.",
+        "image": "/images/items/img3.webp",
+        "category": "honey",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Escalope de Veau",
+        "recipe": "Fresh, organic paneer delivered from farm to your doorstep, daily",
+        "image": "/images/items/img5.png",
+        "category": "paneer",
+        "price": 125
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Roast Duck Breast",
+        "recipe": "Fresh milk delivered daily, ensuring quality, purity, and convenience.",
+        "image": "/images/items/img7.jpeg",
+        "category": "milk",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Roast Duck Breast",
+       "recipe": "Premium butter: rich, creamy, farm-fresh for exceptional taste and quality.",
+        "image": "/images/items/img4.png",
+        "category": "butter",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Roast Duck Breast",
+        "recipe": "Explore premium yogurt: fresh, delicious, and crafted with care.",
+        "image": "/images/items/img8.jpeg",
+        "category": "yogurt",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Roast Duck Breast",
+        "recipe": "Discover premium cheeses with our curated selection and expert recommendations",
+        "image": "/images/items/img4.png",
+        "category": "cheese",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Ice-cream",
+        "recipe": "Delecious mixed flavour Desert",
+        "image": "/images/items/img1.jpg",
+        "category": "popular",
+        "price": 147
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Bread",
+        "recipe": "Freshly baked bread, perfect companion for our dairy products",
+        "image": "/images/items/img2.webp",
+        "category": "popular",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Honey",
+        "recipe": "Sweet, natural, flavor-enhancing, nutritious, sticky, soothing, wholesome honey.",
+        "image": "/images/items/img3.webp",
+        "category": "popular",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Escalope de Veau",
+       "recipe": "Fresh, organic paneer delivered from farm to your doorstep, daily",
+        "image": "/images/items/img5.png",
+        "category": "popular",
+        "price": 125
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Roast Duck Breast",
+       "recipe": "Fresh milk delivered daily, ensuring quality, purity, and convenience.",
+        "image": "/images/items/img7.jpeg",
+        "category": "popular",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Roast Duck Breast",
+        "recipe": "Premium butter: rich, creamy, farm-fresh for exceptional taste and quality.",
+        "image": "/images/items/img4.png",
+        "category": "popular",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Roast Duck Breast",
+        "recipe": "Explore premium yogurt: fresh, delicious, and crafted with care.",
+        "image": "/images/items/img8.jpeg",
+        "category": "popular",
+        "price": 145
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Roast Duck Breast",
+        "recipe": "Discover premium cheeses with our curated selection and expert recommendations",
+        "image": "/images/items/img4.png",
+        "category": "popular",
+        "price": 145
+    }
+]
+
