@@ -1,5 +1,5 @@
-<h1 align="center">Dairy Products Ecommerce webpage</h1>
-<h1 align="center">A Front End webpage designed to manage dairy products and services. It provides a user-friendly interface for customers to browse products, place orders, and manage their profiles..</h1>
+<h1 align="center">Dairy Direct</h1>
+A Front End webpage designed to manage dairy products and services. It provides a user-friendly interface for customers to browse products, place orders, and manage their profiles..
 
 ## Features
 - Browse dairy products
@@ -63,8 +63,8 @@ dairyguard-server/
 └── index.js               # Main server file
 ```
 
-![Dairy Guard](./preview1.png)
-![Dairy Guard](./preview2.png)
-![Dairy Guard](./preview3.png)
+![Dairy Direct](./preview1.png)
+![Dairy Direct](./preview2.png)
+![Dairy Direct](./preview3.png)
 
 
